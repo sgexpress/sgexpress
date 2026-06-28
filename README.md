@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/297562521" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;" />
+    <img src="https://avatars.githubusercontent.com/u/297562521" style="border-radius: 50%; width: 300px; height: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;" />
 </p>
 
 <p align="center">
-    <font size="6">三高特快车</font>
+    <h1>三高特快车</h1>
 </p>
 
 <p align="center">
