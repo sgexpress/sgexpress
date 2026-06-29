@@ -15,5 +15,5 @@
 ## 联系
 
 <p align="center">
-    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ群 1042147847"></a>
+    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-12B7F5?logo=tencent-qq&logoColor=white" alt="QQ群 1042147847"></a>
 </p>
