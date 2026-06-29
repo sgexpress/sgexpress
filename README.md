@@ -10,13 +10,16 @@
 
 ## 关于
 
-《三高特快车》是武汉市第三中学的非正式电子刊物，与武汉市第三中学校方无关，为武汉市第三中学学生出于兴趣建立，旨在在文学社刊物《汉阳树》、《武汉三中》QQ频道、校园墙之外，为同学们提供另一个广阔的天地。
+《三高特快车》是武汉市第三中学的**非正式电子刊物**，**与武汉市第三中学校方无关**，为武汉市第三中学学生**出于兴趣**建立，旨在在文学社刊物《汉阳树》、《武汉三中》QQ频道、校园墙之外，为同学们提供另一个**广阔的天地**。
 
-我们的原则是：可以不高雅，可以不深刻，但是要自然。
+我们的**原则**是：可以不**高雅**，可以不**深刻**，但是要**自然**。
+
+网站主体使用![MIT许可](https://mit-license.org/)，文章使用![CC BY-4.0许可](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans)。
 
 ## 联系
 
 <p align="center">
-    <a href="mailto:hdlr@mail.sb"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-hdlr@mail.sb-blue?logo=gmail&logoColor=white" alt="邮箱" title="邮箱"></a>
-    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-blue?logo=tencent-qq&logoColor=white" alt="QQ群" title="QQ群"></a>
+    <a href="mailto:hdlr@mail.sb"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-hdlr@mail.sb-blue?logo=data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Cpath%20fill='white'%20d='M20%204H4c-1.1%200-2%20.9-2%202v12c0%201.1.9%202%202%202h16c1.1%200%202-.9%202-2V6c0-1.1-.9-2-2-2zm0%204l-8%205-8-5V6l8%205%208-5v2z'/%3E%3C/svg%3E
+&logoColor=white" alt="邮箱" title="邮箱"></a>
+    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-blue?logo=data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-2.75-9.75l2.75 2.75 2.75-2.75L13.5 9l-1.5 1.5L10.5 9l-1.25 1.25zm5.5 3.5H9.25v1.5h5.5v-1.5z'/%3E%3C/svg%3E&logoColor=white" alt="QQ群" title="QQ群"></a>
 </p>
