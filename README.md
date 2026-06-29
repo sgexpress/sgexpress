@@ -14,12 +14,11 @@
 
 我们的**原则**是：可以不**高雅**，可以不**深刻**，但是要**自然**。
 
-网站主体使用[MIT许可](https://mit-license.org/)，文章使用[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans)。
+网站主体使用[MIT许可](https://mit-license.org/)，文章使用[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans)，总而言之，**所有内容务必声明版权**。
 
 ## 联系
 
 <p align="center">
     <a href="mailto:hdlr@mail.sb"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-hdlr@mail.sb-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0bC04IDUtOC01VjZsOCA1IDgtNXYyeiIvPjwvc3ZnPg==&logoColor=white" alt="邮箱" title="邮箱"></a>
-    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTIuNzUtOS43NWwyLjc1IDIuNzUgMi43NS0yLjc1TDEzLjUgOWwtMS41IDEuNUwxMC41IDlsLTEuMjUgMS
-&logoColor=white" alt="QQ群" title="QQ群"></a>
+    <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ry/F/SMzQkzZ4IZgLlu72v8VssSNY8IFCMQieqpDI3Qt%2Bz30eSVnowMaNWIpAeDD&busi_data=eyJncm91cENvZGUiOiIxMDQyMTQ3ODQ3IiwidG9rZW4iOiJhdDVZS2loWERscWFiWWJVNHVORmJkWXg1SWcrY2ZJVEhhdkFJQ1llME4xTmVqcllyQW9TL05hZS94Y1JhQXFtIiwidWluIjoiMTA3OTQ4OTk4NiJ9&data=hMp3mVhgt0DK0SWATuMDM8QR7WmzvbG73TNi8THo5l6b5ih4Eu8V7OrXvXNWeqrBO1jaHJA3LwuBhdJ_T3pXIg&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1042147847-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTIuNzUtOS43NWwyLjc1IDIuNzUgMi43NS0yLjc1TDEzLjUgOWwtMS41IDEuNUwxMC41IDlsLTEuMjUgMS&logoColor=white" alt="QQ群" title="QQ群"></a>
 </p>
